@@ -1,0 +1,331 @@
+Epoch: 0
+The average AUROC is 0.661
+The AUROC of Atelectasis is 0.7011919752109523
+The AUROC of Cardiomegaly is 0.8277052394460204
+The AUROC of Effusion is 0.7759954281113642
+The AUROC of Infiltration is 0.5374142656943364
+The AUROC of Mass is 0.473899709904683
+The AUROC of Nodule is 0.6441494618932572
+The AUROC of Pneumonia is 0.5898325628928949
+The AUROC of Pneumothorax is 0.7411931962749987
+[1] loss: 0.095
+Epoch: 1
+The average AUROC is 0.674
+The AUROC of Atelectasis is 0.6603478448345066
+The AUROC of Cardiomegaly is 0.7844951054007453
+The AUROC of Effusion is 0.7713552486863009
+The AUROC of Infiltration is 0.5608427045716271
+The AUROC of Mass is 0.5614698162729658
+The AUROC of Nodule is 0.6806501207994728
+The AUROC of Pneumonia is 0.6267958788368527
+The AUROC of Pneumothorax is 0.7481139636659712
+[2] loss: 0.060
+Epoch: 2
+The average AUROC is 0.647
+The AUROC of Atelectasis is 0.6307468595111456
+The AUROC of Cardiomegaly is 0.7863653429000501
+The AUROC of Effusion is 0.7462727606012466
+The AUROC of Infiltration is 0.5718850498037907
+The AUROC of Mass is 0.5402458903163421
+The AUROC of Nodule is 0.5608207042975327
+The AUROC of Pneumonia is 0.6114603510356383
+The AUROC of Pneumothorax is 0.7272848709989314
+[3] loss: 0.031
+Epoch: 3
+The average AUROC is 0.673
+The AUROC of Atelectasis is 0.6857768022403722
+The AUROC of Cardiomegaly is 0.8122427554368986
+The AUROC of Effusion is 0.7698025317911596
+The AUROC of Infiltration is 0.5486364179153644
+The AUROC of Mass is 0.5616245337753833
+The AUROC of Nodule is 0.5996549893842889
+The AUROC of Pneumonia is 0.633016838777911
+The AUROC of Pneumothorax is 0.7715033586077046
+[4] loss: 0.015
+Epoch: 4
+The average AUROC is 0.682
+The AUROC of Atelectasis is 0.6628684928176442
+The AUROC of Cardiomegaly is 0.7943746871349908
+The AUROC of Effusion is 0.7735351625680212
+The AUROC of Infiltration is 0.5864322587463747
+The AUROC of Mass is 0.5678629644978588
+The AUROC of Nodule is 0.7084431510359469
+The AUROC of Pneumonia is 0.6494159308861451
+The AUROC of Pneumothorax is 0.7098875375298966
+[5] loss: 0.009
+Epoch: 5
+The average AUROC is 0.665
+The AUROC of Atelectasis is 0.6683019915183291
+The AUROC of Cardiomegaly is 0.8318906780132377
+The AUROC of Effusion is 0.7591869082962527
+The AUROC of Infiltration is 0.5961981116148451
+The AUROC of Mass is 0.5486503660726619
+The AUROC of Nodule is 0.558130170583498
+The AUROC of Pneumonia is 0.6017634965716391
+The AUROC of Pneumothorax is 0.7566122589181212
+[6] loss: 0.005
+Epoch: 6
+The average AUROC is 0.663
+The AUROC of Atelectasis is 0.6888226807859652
+The AUROC of Cardiomegaly is 0.797830107347461
+The AUROC of Effusion is 0.7674842392046638
+The AUROC of Infiltration is 0.5741847949170897
+The AUROC of Mass is 0.50498687664042
+The AUROC of Nodule is 0.6006936818215096
+The AUROC of Pneumonia is 0.6182338890803437
+The AUROC of Pneumothorax is 0.7516093328583786
+[7] loss: 0.004
+Epoch: 7
+The average AUROC is 0.656
+The AUROC of Atelectasis is 0.6712951176493525
+The AUROC of Cardiomegaly is 0.7877975693865065
+The AUROC of Effusion is 0.7491625392672039
+The AUROC of Infiltration is 0.5628459740391649
+The AUROC of Mass is 0.484398397568725
+The AUROC of Nodule is 0.6191384801229959
+The AUROC of Pneumonia is 0.6210264880987748
+The AUROC of Pneumothorax is 0.7534794666938069
+[8] loss: 0.004
+Epoch: 8
+The average AUROC is 0.649
+The AUROC of Atelectasis is 0.632953286590107
+The AUROC of Cardiomegaly is 0.7687858056621615
+The AUROC of Effusion is 0.7338564168182244
+The AUROC of Infiltration is 0.603879713242167
+The AUROC of Mass is 0.5705815720403371
+The AUROC of Nodule is 0.6168597627937624
+The AUROC of Pneumonia is 0.5741108245891314
+The AUROC of Pneumothorax is 0.6908077197089206
+[9] loss: 0.011
+Epoch: 9
+The average AUROC is 0.669
+The AUROC of Atelectasis is 0.6736758570547181
+The AUROC of Cardiomegaly is 0.8372719561710885
+The AUROC of Effusion is 0.7627074782008612
+The AUROC of Infiltration is 0.5884732739558498
+The AUROC of Mass is 0.5067274485426164
+The AUROC of Nodule is 0.6693434731678747
+The AUROC of Pneumonia is 0.5672184525436418
+The AUROC of Pneumothorax is 0.7492494020660526
+[10] loss: 0.005
+Epoch: 10
+The average AUROC is 0.666
+The AUROC of Atelectasis is 0.6807400934405813
+The AUROC of Cardiomegaly is 0.775317731798209
+The AUROC of Effusion is 0.750793431144913
+The AUROC of Infiltration is 0.5805452955766108
+The AUROC of Mass is 0.529271998894875
+The AUROC of Nodule is 0.6449181858115529
+The AUROC of Pneumonia is 0.6237715535168924
+The AUROC of Pneumothorax is 0.7457063253778433
+[11] loss: 0.002
+Epoch: 11
+The average AUROC is 0.670
+The AUROC of Atelectasis is 0.6880382753171452
+The AUROC of Cardiomegaly is 0.794854413482396
+The AUROC of Effusion is 0.7690773914356162
+The AUROC of Infiltration is 0.5906172320978809
+The AUROC of Mass is 0.5210056637657134
+The AUROC of Nodule is 0.6267662347170365
+The AUROC of Pneumonia is 0.6340506945847346
+The AUROC of Pneumothorax is 0.7371444201312911
+[12] loss: 0.001
+Epoch: 12
+The average AUROC is 0.668
+The AUROC of Atelectasis is 0.6885887352952644
+The AUROC of Cardiomegaly is 0.7860733355581511
+The AUROC of Effusion is 0.7722565073933765
+The AUROC of Infiltration is 0.5761887506708447
+The AUROC of Mass is 0.5415057328360271
+The AUROC of Nodule is 0.6112316055348123
+The AUROC of Pneumonia is 0.6212998063005787
+The AUROC of Pneumothorax is 0.7441924075110682
+[13] loss: 0.001
+Epoch: 13
+The average AUROC is 0.651
+The AUROC of Atelectasis is 0.664102440601928
+The AUROC of Cardiomegaly is 0.7723837532677011
+The AUROC of Effusion is 0.7127329973905729
+The AUROC of Infiltration is 0.5438296692512206
+The AUROC of Mass is 0.5783395496615555
+The AUROC of Nodule is 0.6367825243429241
+The AUROC of Pneumonia is 0.5868379460731303
+The AUROC of Pneumothorax is 0.7134306142181059
+[14] loss: 0.005
+Epoch: 14
+The average AUROC is 0.663
+The AUROC of Atelectasis is 0.6828020247752862
+The AUROC of Cardiomegaly is 0.8076853551365484
+The AUROC of Effusion is 0.7778734248190294
+The AUROC of Infiltration is 0.5725109428337306
+The AUROC of Mass is 0.5366431827600497
+The AUROC of Nodule is 0.6194450545427924
+The AUROC of Pneumonia is 0.6210740216990885
+The AUROC of Pneumothorax is 0.6856775736603735
+[15] loss: 0.014
+Epoch: 15
+The average AUROC is 0.667
+The AUROC of Atelectasis is 0.6951197135773247
+The AUROC of Cardiomegaly is 0.8030723343901218
+The AUROC of Effusion is 0.7727390357340542
+The AUROC of Infiltration is 0.5932704146129552
+The AUROC of Mass is 0.5128664180135378
+The AUROC of Nodule is 0.5915101764404422
+The AUROC of Pneumonia is 0.6330881391783817
+The AUROC of Pneumothorax is 0.7313495496412397
+[16] loss: 0.003
+Epoch: 16
+The average AUROC is 0.672
+The AUROC of Atelectasis is 0.7008777543067759
+The AUROC of Cardiomegaly is 0.8150654930752544
+The AUROC of Effusion is 0.7766918144503311
+The AUROC of Infiltration is 0.5811759926100699
+The AUROC of Mass is 0.5376046415250725
+The AUROC of Nodule is 0.6108563950508822
+The AUROC of Pneumonia is 0.6031776211809724
+The AUROC of Pneumothorax is 0.7522040863060403
+[17] loss: 0.001
+Epoch: 17
+The average AUROC is 0.672
+The AUROC of Atelectasis is 0.6967493044708819
+The AUROC of Cardiomegaly is 0.8123018521608545
+The AUROC of Effusion is 0.7742234618398257
+The AUROC of Infiltration is 0.5739823404830631
+The AUROC of Mass is 0.5381737809089653
+The AUROC of Nodule is 0.6308798228274398
+The AUROC of Pneumonia is 0.6141341160532852
+The AUROC of Pneumothorax is 0.7382862195308127
+[18] loss: 0.000
+Epoch: 18
+The average AUROC is 0.671
+The AUROC of Atelectasis is 0.6938869125846621
+The AUROC of Cardiomegaly is 0.7912703709883753
+The AUROC of Effusion is 0.7689677667474174
+The AUROC of Infiltration is 0.5788652669172984
+The AUROC of Mass is 0.5445006216328222
+The AUROC of Nodule is 0.6370250384361958
+The AUROC of Pneumonia is 0.6065525068032466
+The AUROC of Pneumothorax is 0.7445836089766424
+[19] loss: 0.000
+Epoch: 19
+The average AUROC is 0.667
+The AUROC of Atelectasis is 0.6990130711308971
+The AUROC of Cardiomegaly is 0.8188407308526614
+The AUROC of Effusion is 0.7645531266398775
+The AUROC of Infiltration is 0.5684632267256323
+The AUROC of Mass is 0.5199281668738776
+The AUROC of Nodule is 0.6136750494179661
+The AUROC of Pneumonia is 0.6088341196183051
+The AUROC of Pneumothorax is 0.7410786982850746
+[20] loss: 0.000
+Epoch: 20
+The average AUROC is 0.668
+The AUROC of Atelectasis is 0.6972493056176735
+The AUROC of Cardiomegaly is 0.818016852995161
+The AUROC of Effusion is 0.7715592224913917
+The AUROC of Infiltration is 0.5772325920069616
+The AUROC of Mass is 0.520718331261224
+The AUROC of Nodule is 0.6125402664909584
+The AUROC of Pneumonia is 0.6099986928259914
+The AUROC of Pneumothorax is 0.7345650348582768
+[21] loss: 0.000
+Epoch: 21
+The average AUROC is 0.666
+The AUROC of Atelectasis is 0.6948089330480116
+The AUROC of Cardiomegaly is 0.810796623838923
+The AUROC of Effusion is 0.7727084845914414
+The AUROC of Infiltration is 0.5710772909263353
+The AUROC of Mass is 0.5195634756181793
+The AUROC of Nodule is 0.6163930375576543
+The AUROC of Pneumonia is 0.6030469037801095
+The AUROC of Pneumothorax is 0.73684227265788
+[22] loss: 0.000
+Epoch: 22
+The average AUROC is 0.666
+The AUROC of Atelectasis is 0.6968054972603149
+The AUROC of Cardiomegaly is 0.8123053284387342
+The AUROC of Effusion is 0.7720201853196369
+The AUROC of Infiltration is 0.5704102207233731
+The AUROC of Mass is 0.5047437491366211
+The AUROC of Nodule is 0.6163747346072186
+The AUROC of Pneumonia is 0.6105215624294423
+The AUROC of Pneumothorax is 0.74369624955473
+[23] loss: 0.000
+Epoch: 23
+The average AUROC is 0.668
+The AUROC of Atelectasis is 0.6937378296739213
+The AUROC of Cardiomegaly is 0.8230348601145779
+The AUROC of Effusion is 0.7752316495460458
+The AUROC of Infiltration is 0.5785914387166997
+The AUROC of Mass is 0.5101864898466639
+The AUROC of Nodule is 0.6266518412768138
+The AUROC of Pneumonia is 0.5988282967522668
+The AUROC of Pneumothorax is 0.7397874153987075
+[24] loss: 0.000
+Epoch: 24
+The average AUROC is 0.669
+The AUROC of Atelectasis is 0.6808306899786468
+The AUROC of Cardiomegaly is 0.8198384226041492
+The AUROC of Effusion is 0.7677681851183588
+The AUROC of Infiltration is 0.5882248383452816
+The AUROC of Mass is 0.5088050835750795
+The AUROC of Nodule is 0.6326186031188228
+The AUROC of Pneumonia is 0.6086796354172856
+The AUROC of Pneumothorax is 0.7467686122843622
+[25] loss: 0.000
+Epoch: 25
+The average AUROC is 0.654
+The AUROC of Atelectasis is 0.684370835712926
+The AUROC of Cardiomegaly is 0.8016922520718616
+The AUROC of Effusion is 0.7648784064524013
+The AUROC of Infiltration is 0.5545796565549256
+The AUROC of Mass is 0.56857024450891
+The AUROC of Nodule is 0.5787530199868218
+The AUROC of Pneumonia is 0.565210157930387
+The AUROC of Pneumothorax is 0.7141398656556917
+[26] loss: 0.028
+Epoch: 26
+The average AUROC is 0.651
+The AUROC of Atelectasis is 0.6913502095188292
+The AUROC of Cardiomegaly is 0.7620453028533289
+The AUROC of Effusion is 0.7636653463780722
+The AUROC of Infiltration is 0.5682436151361797
+The AUROC of Mass is 0.533244923331952
+The AUROC of Nodule is 0.6027390365326891
+The AUROC of Pneumonia is 0.5557390880678781
+The AUROC of Pneumothorax is 0.7307261716960969
+[27] loss: 0.004
+Epoch: 27
+The average AUROC is 0.660
+The AUROC of Atelectasis is 0.6945359966421941
+The AUROC of Cardiomegaly is 0.8143459035541465
+The AUROC of Effusion is 0.7616103327558568
+The AUROC of Infiltration is 0.5651182677037824
+The AUROC of Mass is 0.5297803564028181
+The AUROC of Nodule is 0.6043085145325426
+The AUROC of Pneumonia is 0.5781155304155625
+The AUROC of Pneumothorax is 0.7360407867284108
+[28] loss: 0.001
+Epoch: 28
+The average AUROC is 0.655
+The AUROC of Atelectasis is 0.6935497558480639
+The AUROC of Cardiomegaly is 0.79646045386284
+The AUROC of Effusion is 0.760957077441755
+The AUROC of Infiltration is 0.580147935856945
+The AUROC of Mass is 0.5272109407376709
+The AUROC of Nodule is 0.5902152426971228
+The AUROC of Pneumonia is 0.5507837102351725
+The AUROC of Pneumothorax is 0.7428025291333774
+[29] loss: 0.000
+Epoch: 29
+The average AUROC is 0.657
+The AUROC of Atelectasis is 0.6976048110202088
+The AUROC of Cardiomegaly is 0.8064895155459146
+The AUROC of Effusion is 0.7572280409169655
+The AUROC of Infiltration is 0.5860980373586766
+The AUROC of Mass is 0.5243873463185523
+The AUROC of Nodule is 0.589501427630134
+The AUROC of Pneumonia is 0.5517581490416038
+The AUROC of Pneumothorax is 0.7461134293420182
+[30] loss: 0.000
+Finished Training
